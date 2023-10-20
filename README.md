@@ -1,1 +1,1 @@
-Dashboard Link : 
+Dashboard Link : https://airquality-dicoding.streamlit.app/

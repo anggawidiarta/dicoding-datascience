@@ -13,7 +13,7 @@ st.set_page_config(
 
 def create_sidebar():
     # set start date & end date
-    st.sidebar.image('dashboard\Real_Madrid_logo_PNG19.png',caption='Created By : I Putu Angga Purnama Widiarta')
+    st.sidebar.image('dashboard/Real_Madrid_logo_PNG19.png',caption='Created By : I Putu Angga Purnama Widiarta')
     
     min_date = df["datetime"].min()
     max_date = df["datetime"].max()

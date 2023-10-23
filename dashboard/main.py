@@ -271,4 +271,3 @@ if __name__ == "__main__":
         f"<h1 style='text-align: left; font-size: 32px; color:#2192FF'>Dataframe</h1>",
         unsafe_allow_html=True,
     )
-    st.dataframe(df, hide_index=True, use_container_width=True)

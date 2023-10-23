@@ -1,1 +1,13 @@
-Dashboard Link : https://airquality-dicoding.streamlit.app/
+# Dicoding Collection Dashboard ✨
+
+## Setup environment
+
+```
+pip install -r requirements.txt
+```
+
+## Run steamlit app
+
+```
+streamlit run dashboard/main.py
+```
